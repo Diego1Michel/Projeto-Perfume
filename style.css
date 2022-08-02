@@ -80,7 +80,7 @@ button:hover {
     .container {
         display: flex;
         margin: auto;
-        max-width: 600px;
+        max-width: 560px;
     }
 
     .image-perfume{
@@ -89,6 +89,6 @@ button:hover {
     }
     .div-img, .info{
         width: 50% ;
-        
+
     }
 }
